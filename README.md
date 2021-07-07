@@ -5,3 +5,5 @@ The code is not opensource and cannot be shared for a few years.
 You may read more about the satellite in the link below :
 
 https://en.wikipedia.org/wiki/StudSat-2
+
+https://web.archive.org/web/20111014133438/http://nmit.ac.in/Centerforsmallsatellite.aspx?LinkId=407
