@@ -8,4 +8,4 @@ https://en.wikipedia.org/wiki/StudSat-2
 
 https://web.archive.org/web/20111014133438/http://nmit.ac.in/Centerforsmallsatellite.aspx?LinkId=407
 
-Contributions include interfacing magnetometer and gyroscope to the on board data handling ARM controller (STM32)
+Personal contributions include interfacing magnetometer and gyroscope to the on board data handling ARM controller (STM32)
